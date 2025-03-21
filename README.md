@@ -6,3 +6,4 @@ This is to test the new branch dev
 This is a change done in remote repo
 
 This is done via vs code (push )
+This is to test the commit from vsc
